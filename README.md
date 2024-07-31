@@ -1,4 +1,5 @@
 Prodigy_ML_Task-1
+
 This repository hosts a project focused on predicting housing prices using machine learning, specifically leveraging linear regression. The objective is to develop an accurate model that estimates house prices based on key features such as square footage, number of bedrooms, and bathrooms..
 
 Overview This repository contains the implementation of a linear regression model to predict house prices based on square footage, number of bedrooms, and number of bathrooms. The project explores essential concepts in data analysis, machine learning, and model evaluation.
